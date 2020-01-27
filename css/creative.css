@@ -9567,6 +9567,11 @@ hr.divider {
   border-color: #f4623a;
 }
 
+hr.divider2 {
+  border-width: 0.2rem;
+  border-color: #f4623a;
+}
+
 hr.light {
   border-color: #fff;
 }
